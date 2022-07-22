@@ -4,5 +4,4 @@ In this mock service app there are 3 services, Landing, Middleman and Operator. 
 User enters a phone number to the landing page to subscribe to a service,
 tokens are created and forwarded in this order and a correct response is returned in landing pages:
 
-Landing --> Middle --> Operator. 
-        <--        <--
+Landing --> Middleman --> Operator --> Middleman --> Landing
