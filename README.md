@@ -8,3 +8,7 @@ tokens are created and forwarded in this order and a correct response is returne
 Landing --> Middleman --> Operator --> Middleman --> Landing
 
 ![Explanation](explanation.png)
+
+##Landing Page Design
+
+![Landing](landing.png)
